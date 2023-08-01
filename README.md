@@ -54,14 +54,6 @@ final baseUrl = 'http://your-api-url.com';
 
 Substitua `http://your-api-url.com` pela URL real da sua API.
 
-### Capturas de Tela
-
-Inclua capturas de tela relevantes do aplicativo em diferentes estados (por exemplo, lista de usuários, formulário de usuário, etc.) no README. Você pode adicionar as capturas de tela na pasta `screenshots` e fazer um link para elas no README.
-
-### Problemas Conhecidos
-
-Liste quaisquer problemas conhecidos ou limitações do aplicativo, juntamente com quaisquer soluções alternativas ou planos para corrigi-los.
-
 ### Contribuições
 
 Se você deseja contribuir para o projeto, sinta-se à vontade para enviar pull requests. Por favor, siga o estilo de código e as diretrizes do projeto ao fazer contribuições.
